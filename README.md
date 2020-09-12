@@ -13,3 +13,5 @@
 	 * PS:
 	 * See the image in the description folder for more details
 	 */
+## Challenge description:
+![Challenge description](https://github.com/Adhouma/Sets-Symmetric-And-Asymmetric-challenge/blob/master/Description/description.PNG?raw=true)
